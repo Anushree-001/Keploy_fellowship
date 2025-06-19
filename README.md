@@ -20,5 +20,5 @@
 - Cloud & DevOps (Learning!)
 
 ## 📫 Connect With Me
-- [LinkedIn](www.linkedin.com/in/anushree-sinha-242059314)
+- [LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https//:www.linkedin.com/in/anushree-sinha-242059314)
 - [Email](mailto:anushreesinha2003@gmail.com)
